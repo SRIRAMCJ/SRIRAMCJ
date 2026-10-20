@@ -71,6 +71,10 @@ I like connecting AI models to real products: ingesting knowledge, retrieving re
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SRIRAMCJ/SRIRAMCJ/main/assets/projects-banner.svg" alt="Projects and experiments — selected AI engineering work" width="100%" />
+</div>
+
 ## 🚀 Featured Projects
 
 <details open>
@@ -117,6 +121,10 @@ A project exploring retrieval-augmented generation and searchable knowledge expe
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SRIRAMCJ/SRIRAMCJ/main/assets/analytics-banner.svg" alt="GitHub analytics — contributions, languages and activity trends" width="100%" />
+</div>
+
 ## 📊 GitHub Dashboard
 
 <div align="center">
@@ -128,6 +136,16 @@ A project exploring retrieval-augmented generation and searchable knowledge expe
     <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAMCJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
   </a>
 
+</div>
+
+<div align="center">
+  <a href="https://github.com/SRIRAMCJ">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SRIRAMCJ&theme=tokyonight" alt="GitHub contribution and activity summary graph" width="100%" />
+  </a>
+  <br/><br/>
+  <a href="https://github.com/SRIRAMCJ">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRIRAMCJ&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" width="100%" />
+  </a>
 </div>
 
 <details>
@@ -158,6 +176,8 @@ A project exploring retrieval-augmented generation and searchable knowledge expe
 
 <div align="center">
 
+  <img src="https://raw.githubusercontent.com/SRIRAMCJ/SRIRAMCJ/main/assets/connect-banner.svg" alt="Let's build something — open to collaboration" width="100%" />
+
 I'm interested in **GenAI, AI agents, practical machine learning, developer tools and open-source collaboration**.
 
 <a href="https://github.com/SRIRAMCJ"><img src="https://img.shields.io/badge/GitHub-SRIRAMCJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
@@ -166,7 +186,5 @@ I'm interested in **GenAI, AI agents, practical machine learning, developer tool
 <br/><br/>
 
 **Building intelligent systems, one experiment at a time.** 🚀
-
-<img src="https://raw.githubusercontent.com/SRIRAMCJ/SRIRAMCJ/main/assets/profile-banner.svg" alt="Sri Ram V — AI Engineer" width="100%" />
 
 </div>
