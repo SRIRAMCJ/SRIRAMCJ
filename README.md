@@ -17,9 +17,6 @@
     <a href="https://github.com/SRIRAMCJ?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=SRIRAMCJ&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views" />
-  </p>
 </div>
 
 ---
