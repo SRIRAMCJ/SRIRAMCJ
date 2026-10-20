@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Sri Ram V — AI Engineer</title>
+<desc id="desc">A blue and violet futuristic banner for an AI engineer working on generative AI, language models, retrieval augmented generation and AI agents.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07111f"/><stop offset=".48" stop-color="#102b55"/><stop offset="1" stop-color="#30145f"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60a5fa"/><stop offset=".55" stop-color="#a78bfa"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+  <radialGradient id="glow"><stop stop-color="#3b82f6" stop-opacity=".4"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#93c5fd" stroke-opacity=".09" stroke-width="1"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="26" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="26" fill="url(#grid)"/>
+<circle cx="1030" cy="75" r="260" fill="url(#glow)"/>
+<g fill="none" stroke="url(#accent)" stroke-opacity=".65" stroke-width="2">
+  <path d="M790 65L875 110L970 70L1060 125L1140 85"/>
+  <path d="M820 190L900 145L1000 190L1080 150L1160 205"/>
+  <path d="M875 110L900 145M970 70L1000 190M1060 125L1080 150M970 70L1080 150"/>
+  <circle cx="790" cy="65" r="5" fill="#60a5fa"/><circle cx="875" cy="110" r="5" fill="#a78bfa"/><circle cx="970" cy="70" r="5" fill="#67e8f9"/><circle cx="1060" cy="125" r="5" fill="#60a5fa"/><circle cx="1140" cy="85" r="5" fill="#a78bfa"/>
+  <circle cx="820" cy="190" r="5" fill="#67e8f9"/><circle cx="900" cy="145" r="5" fill="#60a5fa"/><circle cx="1000" cy="190" r="5" fill="#a78bfa"/><circle cx="1080" cy="150" r="5" fill="#67e8f9"/><circle cx="1160" cy="205" r="5" fill="#60a5fa"/>
+</g>
+<g transform="translate(840 225)" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".9">
+  <path d="M0 0L40 -22L80 0L120 -22L160 0L200 -22L240 0"/>
+  <path d="M40 -22V-62M120 -22V-62M200 -22V-62"/>
+  <circle cx="40" cy="-62" r="6" fill="#60a5fa"/><circle cx="120" cy="-62" r="6" fill="#a78bfa"/><circle cx="200" cy="-62" r="6" fill="#67e8f9"/>
+</g>
+<rect x="54" y="47" width="5" height="246" rx="2.5" fill="url(#accent)"/>
+<text x="88" y="123" font-family="Segoe UI, Arial, sans-serif" font-size="19" font-weight="700" letter-spacing="5" fill="#93c5fd">AI ENGINEER • PRODUCT BUILDER</text>
+<text x="84" y="190" font-family="Segoe UI, Arial, sans-serif" font-size="57" font-weight="800" fill="#ffffff">Sri Ram V</text>
+<text x="88" y="230" font-family="Segoe UI, Arial, sans-serif" font-size="22" fill="#dbeafe">GenAI  /  LLMs  /  RAG  /  AI Agents</text>
+<rect x="88" y="257" width="220" height="3" rx="1.5" fill="url(#accent)"/>
+<text x="88" y="285" font-family="Segoe UI, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#bfdbfe">BUILDING INTELLIGENT SYSTEMS</text>
+</svg>
