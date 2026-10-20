@@ -16,6 +16,7 @@
 
   <a href="https://github.com/SRIRAMCJ"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
   <a href="https://www.linkedin.com/in/sri-ram-v15/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
+  <a href="https://sriram-peach.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Sriram V personal portfolio" /></a>
 
 </div>
 
