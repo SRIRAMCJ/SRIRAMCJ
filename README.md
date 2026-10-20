@@ -1,21 +1,21 @@
-<!--
-  Sri Ram V | AI Engineer
-  GitHub Profile README — designed for a polished dark-mode profile.
--->
+<!-- Sri Ram V | AI Engineer | GitHub profile README -->
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,35:123B72,70:2563EB,100:7C3AED&text=Sri%20Ram%20V&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=AI%20Engineer%20%7C%20GenAI%20%7C%20LLMs%20%7C%20AI%20Agents&descAlignY=59&descSize=18" alt="Sri Ram V — AI Engineer banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/SRIRAMCJ/SRIRAMCJ/main/assets/profile-banner.svg" alt="Sri Ram V — AI Engineer | GenAI, LLMs, RAG and AI Agents" width="100%" />
 
-  <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+intelligent+AI+systems;GenAI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;From+ideas+to+useful+products;Always+learning.+Always+building.">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=760&lines=Building+intelligent+AI+systems;GenAI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;From+ideas+to+useful+products;Always+learning.+Always+building." alt="Animated introduction" />
-  </a>
+  <br/>
 
-  <p>
-    <a href="https://github.com/SRIRAMCJ"><img src="https://img.shields.io/badge/GitHub-SRIRAMCJ-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/sri-ram-v15/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://github.com/SRIRAMCJ?tab=repositories"><img src="https://img.shields.io/badge/Explore-My%20Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" /></a>
-  </p>
+  <a href="#-about-me"><img src="https://img.shields.io/badge/ABOUT-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="About me" /></a>
+  <a href="#-tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-172554?style=for-the-badge&logo=stackshare&logoColor=93C5FD" alt="Tech stack" /></a>
+  <a href="#-featured-projects"><img src="https://img.shields.io/badge/PROJECTS-312E81?style=for-the-badge&logo=github&logoColor=C4B5FD" alt="Projects" /></a>
+  <a href="#-github-dashboard"><img src="https://img.shields.io/badge/GITHUB_STATS-164E63?style=for-the-badge&logo=github&logoColor=67E8F9" alt="GitHub stats" /></a>
+  <a href="#-connect"><img src="https://img.shields.io/badge/CONNECT-14532D?style=for-the-badge&logo=linkedin&logoColor=86EFAC" alt="Connect" /></a>
+
+  <br/><br/>
+
+  <a href="https://github.com/SRIRAMCJ"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="https://www.linkedin.com/in/sri-ram-v15/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
 
 </div>
 
@@ -23,13 +23,20 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI Engineer at Madras MindWorks Pvt Ltd**, focused on turning AI research and ideas into practical applications. I enjoy working across the AI stack—from retrieval pipelines and local language models to interactive software products.
+I'm an **AI Engineer at Madras MindWorks Pvt Ltd**, focused on building practical AI applications—from retrieval pipelines and local language models to intelligent tools and interactive software.
 
-- 🤖 **Building:** Generative AI applications, RAG systems, LLM-powered tools, and agentic workflows.
-- 🧠 **Exploring:** Local LLMs, embeddings, NLP, AI automation, and production-ready AI systems.
-- 🛠️ **Engineering:** Backend services, modern web apps, and interactive 3D learning experiences.
-- 🏆 **Highlights:** Hackathon wins, an idea award, and a SCOPUS-indexed research paper.
-- 🤝 **Open to:** Meaningful open-source collaboration and ambitious AI projects.
+- 🤖 **Building:** Generative AI applications, RAG systems, LLM-powered tools and AI-agent workflows.
+- 🧠 **Exploring:** Local LLMs, embeddings, NLP, AI automation and production-ready AI systems.
+- ⚙️ **Engineering:** Backend services, modern web applications and interactive 3D learning experiences.
+- 🏆 **Highlights:** Hackathon wins, an idea award and a SCOPUS-indexed research paper.
+- 🤝 **Collaboration:** Open to useful open-source projects and ambitious ideas.
+
+<details>
+<summary><strong>🔎 A little more about what I enjoy building</strong></summary>
+
+I like connecting AI models to real products: ingesting knowledge, retrieving relevant context, designing reliable workflows, and creating interfaces that make the results useful. I’m especially interested in local-first AI, agent orchestration and developer tools.
+
+</details>
 
 ---
 
@@ -37,97 +44,129 @@ I'm an **AI Engineer at Madras MindWorks Pvt Ltd**, focused on turning AI resear
 
 <div align="center">
 
-### AI & Machine Learning
-<img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
-<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge&logo=probot&logoColor=white" alt="LLMs" />
-<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="RAG" />
-<img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge" alt="AI agents" />
+**AI / LLM Engineering**
+
+<img src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/LLMs-2563EB?style=for-the-badge&logo=googlegemini&logoColor=white" alt="LLMs" />
+<img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" alt="Retrieval augmented generation" />
+<img src="https://img.shields.io/badge/AI_Agents-7C3AED?style=for-the-badge" alt="AI agents" />
 <img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/ChromaDB-6B46C1?style=for-the-badge" alt="ChromaDB" />
 
-### Languages & Development
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,html,css,git,github,docker,linux&perline=7" alt="Languages and development tools" />
+**Languages / Frameworks / Tools**
 
-### Data & Application Engineering
-<img src="https://img.shields.io/badge/Sentence%20Transformers-1D4ED8?style=for-the-badge" alt="Sentence Transformers" />
-<img src="https://img.shields.io/badge/Vector%20Search-0F766E?style=for-the-badge" alt="Vector search" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js" />
-<img src="https://img.shields.io/badge/REST%20APIs-475569?style=for-the-badge" alt="REST APIs" />
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,react,nextjs,nodejs,fastapi,html,css,git,github,docker,linux&perline=7" alt="Development tools and technologies" />
 
 </div>
+
+<details>
+<summary><strong>🧪 More tools and concepts</strong></summary>
+
+- **Retrieval & data:** Sentence Transformers, BAAI/bge-m3, vector search, document chunking
+- **AI runtime:** Ollama, local GGUF models, prompt engineering, RAG evaluation
+- **Application development:** REST APIs, TypeScript, React, Next.js, Three.js
+- **Engineering practices:** Git, testing, API integration, automation and documentation
+
+</details>
 
 ---
 
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🕉️ RamayanaAI</h3>
-      An offline AI assistant for exploring the Valmiki Ramayana using retrieval-augmented generation, local language models, and text-to-speech.
-      <br/><br/>
-      <a href="https://github.com/SRIRAMCJ?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Repositories-2563EB?style=flat-square&logo=github&logoColor=white" alt="Explore repositories" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ Electrical Competency Assessment</h3>
-      An interactive training and assessment experience with 3D electrical circuits, scenario-based questions, and practical troubleshooting.
-      <br/><br/>
-      <a href="https://github.com/SRIRAMCJ/electrical-competency-assessment"><img src="https://img.shields.io/badge/View%20Repository-2563EB?style=flat-square&logo=github&logoColor=white" alt="Electrical Competency Assessment repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 The SUPER Repo</h3>
-      An ambitious developer tooling project exploring AI-assisted engineering, agent execution, and runtime orchestration.
-      <br/><br/>
-      <a href="https://github.com/SRIRAMCJ/The-SUPER-repo"><img src="https://img.shields.io/badge/View%20Repository-7C3AED?style=flat-square&logo=github&logoColor=white" alt="The SUPER Repo" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🔎 Enterprise RAG</h3>
-      A repository focused on retrieval-augmented generation and building searchable knowledge experiences.
-      <br/><br/>
-      <a href="https://github.com/SRIRAMCJ/enterprise-rag"><img src="https://img.shields.io/badge/View%20Repository-0F766E?style=flat-square&logo=github&logoColor=white" alt="Enterprise RAG" /></a>
-    </td>
-  </tr>
-</table>
+<details open>
+<summary><strong>🕉️ RamayanaAI — Offline knowledge assistant</strong></summary>
 
-<p align="center"><i>Also exploring AI-powered applications, developer tools, and immersive training software.</i></p>
+An offline AI assistant for exploring the Valmiki Ramayana with retrieval-augmented generation, local language models and text-to-speech.
+
+**Focus:** Python · RAG · Ollama · Sentence Transformers · ChromaDB · Next.js
+
+<a href="https://github.com/SRIRAMCJ?tab=repositories"><img src="https://img.shields.io/badge/Find_project_in_my_repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Find RamayanaAI in repositories" /></a>
+
+</details>
+
+<details open>
+<summary><strong>⚡ Electrical Competency Assessment — Interactive 3D training</strong></summary>
+
+A competency assessment experience featuring interactive electrical circuit simulations, scenario-based questions and practical troubleshooting tasks.
+
+**Focus:** TypeScript · React · Three.js · Vite
+
+<a href="https://github.com/SRIRAMCJ/electrical-competency-assessment"><img src="https://img.shields.io/badge/Explore_repository-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Electrical Competency Assessment repository" /></a>
+
+</details>
+
+<details>
+<summary><strong>🧠 The SUPER Repo — Developer tooling and runtime orchestration</strong></summary>
+
+An ambitious developer tooling project exploring AI-assisted engineering, agent execution workflows and runtime orchestration.
+
+<a href="https://github.com/SRIRAMCJ/The-SUPER-repo"><img src="https://img.shields.io/badge/Explore_The_SUPER_Repo-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="The SUPER Repo" /></a>
+
+</details>
+
+<details>
+<summary><strong>🔎 Enterprise RAG — Knowledge retrieval</strong></summary>
+
+A project exploring retrieval-augmented generation and searchable knowledge experiences.
+
+<a href="https://github.com/SRIRAMCJ/enterprise-rag"><img src="https://img.shields.io/badge/Explore_Enterprise_RAG-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Enterprise RAG" /></a>
+
+</details>
+
+<p align="center"><a href="https://github.com/SRIRAMCJ?tab=repositories"><strong>→ Browse all repositories</strong></a></p>
 
 ---
 
-## 📈 GitHub at a Glance
+## 📊 GitHub Dashboard
 
 <div align="center">
+
   <a href="https://github.com/SRIRAMCJ">
-    <img height="175" src="https://github-readme-stats.vercel.app/api?username=SRIRAMCJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=SRIRAMCJ&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics for SRIRAMCJ" />
   </a>
   <a href="https://github.com/SRIRAMCJ">
-    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAMCJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top programming languages" />
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRIRAMCJ&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
   </a>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=SRIRAMCJ&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
 </div>
 
+<details>
+<summary><strong>🔥 View contribution streak</strong></summary>
+<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SRIRAMCJ&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</div>
+</details>
+
+<sub>Note: Statistics and streak cards are provided by third-party services. If a card is temporarily unavailable, your repositories and contribution history remain accessible directly on GitHub.</sub>
+
 ---
 
-## 🏅 Achievements
+## 🏆 Achievements
 
-- 🥇 **1st Place** — VELTECH MULTITECH Ideathon
-- 🥉 **3rd Place** — Sairam Engineering College
-- 💡 **Best Idea Award** — SRM AP
-- 🏆 **Winner** — IITM MintAthon
-- 📚 Co-author of the SCOPUS-indexed research paper **“Psychological AI”**
+| Recognition | Achievement |
+|:--|:--|
+| 🥇 | **1st Place** — VELTECH MULTITECH Ideathon |
+| 🥉 | **3rd Place** — Sairam Engineering College |
+| 💡 | **Best Idea Award** — SRM AP |
+| 🏆 | **Winner** — IITM MintAthon |
+| 📚 | Co-author of the SCOPUS-indexed research paper **“Psychological AI”** |
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
 <div align="center">
-  <p>Interested in GenAI, AI agents, practical machine learning, and building useful open-source tools? Let's connect.</p>
-  <a href="https://github.com/SRIRAMCJ"><img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub" /></a>
-  <a href="https://www.linkedin.com/in/sri-ram-v15/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <br/><br/>
-  <strong>Building intelligent systems, one experiment at a time. 🚀</strong>
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:7C3AED,50:2563EB,100:0D1117" alt="Decorative footer" width="100%" />
+
+I'm interested in **GenAI, AI agents, practical machine learning, developer tools and open-source collaboration**.
+
+<a href="https://github.com/SRIRAMCJ"><img src="https://img.shields.io/badge/GitHub-SRIRAMCJ-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/sri-ram-v15/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+
+<br/><br/>
+
+**Building intelligent systems, one experiment at a time.** 🚀
+
+<img src="https://raw.githubusercontent.com/SRIRAMCJ/SRIRAMCJ/main/assets/profile-banner.svg" alt="Sri Ram V — AI Engineer" width="100%" />
+
 </div>
